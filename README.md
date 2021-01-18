@@ -1,2 +1,1 @@
-# git_test
-the odin project demo
+This is Omkar's first project.
